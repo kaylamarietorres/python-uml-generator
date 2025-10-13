@@ -1,0 +1,5 @@
+# GNU General Public License v3.0
+
+In their webpage on [choosealicense.com](http://choosealicense.com/licenses/gpl-3.0/), it says to use this license you should create a text file called COPYING.
+
+I chose the GNU GPLv3 becuase I value input from the open-source community, and wanted to choose a license preferred by the community. Choosing GNU GPL v3 (or “GPL v3 or later”) for my project is justified to guarantee long-term software freedom for all users and contributors. The license ensures that anyone who modifies or redistributes your code must also release their changes under the same terms, preventing proprietary forks and protecting users’ rights to run, study, and modify the software. It also includes strong patent protections and prohibits hardware lock-ins (known as Tivoization), ensuring users can install modified versions on their own devices. While this “copyleft” approach can limit adoption by closed-source or commercial users due to its reciprocity requirements, it aligns with the Free Software Foundation’s principles of openness, collaboration, and legal safeguards against software enclosure.

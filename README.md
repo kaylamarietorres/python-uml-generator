@@ -48,8 +48,8 @@ If you’d like to be part of the project, check out our open issues and feel fr
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE).
-Feel free to use, modify, and distribute it with proper attribution.
+This project is licensed under the [GNU General Public License v3.0](COPYING).
+This copyleft license ensures that all modifications and distributions of this software remain free and open source, protecting the rights of users and contributors to run, study, modify, and share the code.
 
 ## 🙌 Acknowledgements
 
